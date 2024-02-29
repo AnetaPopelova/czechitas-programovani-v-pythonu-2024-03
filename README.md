@@ -6,18 +6,18 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programován�
 | Lekce | Datum | Téma | Materiály | Úkoly |
 |---|---|---|---|---|
 | 1 | 4. 3. 2024 | Opakování | [opakování](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/uvod/uvod) |  |
-| 2 | 11. 3. 2024 | Slicing, metody, moduly a funkce | [slicing, metody, moduly](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing), [funkce](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce) |  |
+| 2 | 11. 3. 2024 | Slicing, metody, moduly<br>Vlastní funkce | [slicing, metody, moduly](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing)<br> [funkce](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce) |  |
 | 3 | 18. 3. 2024 | Slovníky a další datové struktury | [další datové struktury](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slovniky/n-tice) |  |
-| 4 | 25. 3. 2024 | GitHub a coding style | [Git a GitHub](https://kodim.cz/czechitas/daweb/zaklady-gitu/uvod-do-gitu/system-git) |  |
-| - | 1. 4. 2024 | Velikonoce - lekce se nekoná | 🐣 |  |
+| 4 | 25. 3. 2024 | GitHub<br>Coding style | [git a GitHub](https://kodim.cz/czechitas/daweb/zaklady-gitu/uvod-do-gitu/system-git) |  |
+| *-* | *1. 4. 2024* | *Velikonoce - lekce se nekoná* | 🐣 |  |
 | 5 | 8. 4. 2024 | OOP - Objekty a třídy | [třídy a objekty](https://kodim.cz/czechitas/python-oop/lekce/tridy/tridy) |  |
 | 6 | 15. 4. 2024 | OOP - Dědičnost | [dědičnost](https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dedicnost) |  |
 | 7 | 22. 4. 2024 | OOP  | [oop](https://kodim.cz/programovani/python-oop/lekce) |  |
-| 8 | 29. 4. 2024 | Datum a čas, instalace balíčků pomocí pip, AI nástroje ve vývoji | [datum a čas](https://kodim.cz/analyza-dat/python-data-1/bonusy/datum/datum), [instalace balíčků](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/balicky-z-internetu/lesson)  |  |
+| 8 | 29. 4. 2024 | Datum a čas<br>Instalace balíčků pomocí `pip`<br>AI nástroje ve vývoji | [datum a čas](https://kodim.cz/analyza-dat/python-data-1/bonusy/datum/datum)<br>[instalace balíčků](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/balicky-z-internetu/lesson)  |  |
 | 9 | 6. 5. 2024 | Čtení a zápis textových souborů | [čtení a zápis](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/soubory/cteni-souboru) |  |
-| 10 | 13. 5. 2024 | JSON a API | [json](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/format-json), [API](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/json-api) |  |
-| 11 | 20. 5. 2024 | Obsluha výjimek | [odkaz](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/vyjimky/chyby-v-programu) |  |
-| 12 | 27. 5. 2024 | Regulární výrazy | [odkaz](https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy) |  |
+| 10 | 13. 5. 2024 | JSON<br>API | [JSON](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/format-json)<br>[API](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/json-api) |  |
+| 11 | 20. 5. 2024 | Obsluha výjimek | [výjimky](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/vyjimky/chyby-v-programu) |  |
+| 12 | 27. 5. 2024 | Regulární výrazy | [regex](https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy) |  |
 
 
 ## Podmínky pro obdržení certifikátu
