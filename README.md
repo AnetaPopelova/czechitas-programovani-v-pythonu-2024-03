@@ -3,7 +3,7 @@
 Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programování v Pythonu** od Czechitas. 
 
 ## Harmonogram lekcí
-| Lekce | Datum | Téma | Materiály | Kvíz |
+| Lekce | Datum | Téma | Materiály | Úkoly |
 |---|---|---|---|---|
 | 1 | 4. 3. 2024 | Opakování | [opakování](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/uvod/uvod) |  |
 | 2 | 11. 3. 2024 | Slicing, metody, moduly a funkce | [slicing, metody, moduly](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/slicing-metody-moduly/slicing), [funkce](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/vlastni-funkce/funkce) |  |
@@ -24,6 +24,8 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programován�
 - Splnění kvízu z každé lekce na min. 70 %, kvíz musí být odevzdaný **před začátkem další lekce** (u posledního kvízu do 7 dnů). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
 - Odevzdání dvou domácích úkolů, budou zadané po 7. a 10. lekci, úkol musí být odevzdaný do 2 týdnů.
 - Účast na min. 10 z 12 lekcí.
+
+**Odkaz na kvízy: https://open.openclass.ai/invite?code=qMwZU8vWLX0AAQ**
 
 
 ## Příprava před kurzem

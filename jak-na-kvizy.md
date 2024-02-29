@@ -11,5 +11,6 @@
 5. Na zvolenou emailovou adresu vám přijde ověřovací email - prosím, ověřte email stisknutím tlačítka Ověřit email.
 6. Systém vás provede novým přihlášením - zadejte, prosím, email a vytvořené heslo.
 7. Vítejte v systému OpenClass - kde na vás čekají kvízy, které bude lektorka postupně do systému přidávat.
+8. Kvízy najdeš na tomto odkazu: https://open.openclass.ai/invite?code=qMwZU8vWLX0AAQ
 
-V případě dotazů piš do Slacku do kanálu #kvízy.
+V případě dotazů pište do Slacku do kanálu #kvízy.
