@@ -27,7 +27,7 @@ for rodne_cislo in rodna_cisla:
     pohlavi = rodne_cislo[7]
 
     # Zjištění pohlaví a inkrementace příslušného počítadla
-    if pohlavi == "5":
+    if pohlavi == "5" or pohlavi == "6":
         pocet_zen += 1
     else:
         pocet_muzu += 1
