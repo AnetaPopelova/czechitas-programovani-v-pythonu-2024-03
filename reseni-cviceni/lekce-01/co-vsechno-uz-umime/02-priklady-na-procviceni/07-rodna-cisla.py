@@ -21,7 +21,6 @@ nejstarsi_datum = "999999"
 nejmladsi_datum = "000000"
 
 # Projdi všechna rodná čísla
-# Projdi všechna rodná čísla
 for rodne_cislo in rodna_cisla:
     rok = rodne_cislo[:2]
     mesic = int(rodne_cislo[2:4])
