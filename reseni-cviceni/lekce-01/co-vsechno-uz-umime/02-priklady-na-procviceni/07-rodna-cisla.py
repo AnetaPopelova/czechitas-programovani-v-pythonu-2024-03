@@ -22,15 +22,26 @@ nejmladsi_datum = "000000"
 
 # Projdi všechna rodná čísla
 for rodne_cislo in rodna_cisla:
-    # Rozdělení rodného čísla na datum narození a část identifikující pohlaví
-    datum_narozeni = rodne_cislo[:6]
-    pohlavi = rodne_cislo[7]
+    rok = rodne_cislo[:2]
+    mesic = int(rodne_cislo[2:4])
+    den = rodne_cislo[4:6]
 
-    # Zjištění pohlaví a inkrementace příslušného počítadla
-    if pohlavi == "5" or pohlavi == "6":
+    # Určení pohlaví a přizpůsobení měsíce
+    if mesic > 50:
+        pohlavi = "žena"
         pocet_zen += 1
+        mesic -= 50
     else:
+        pohlavi = "muž"
         pocet_muzu += 1
+    
+    # Kontrola, zda je měsíc jednociferný, a případné přidání nuly
+    if mesic < 10:
+        mesic_str = '0' + str(mesic)
+    else:
+        mesic_str = str(mesic)
+
+    datum_narozeni = rok + mesic_str + den
 
     # Porovnání s dosavadními nejstarším a nejmladším datem
     if datum_narozeni < nejstarsi_datum:
