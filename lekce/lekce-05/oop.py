@@ -23,12 +23,12 @@ class Employee:
     def net_salary(self):
         return self.gross_salary * (1 - 0.15)  # Vypočítá a vrátí čistou mzdu
 
-# Vytvoření instance zaměstnance Františka s chybějícím atributem pro plat, opraveno
+# Vytvoření instance zaměstnance Františka
 frantisek = Employee("Frantisek", "prodavač", 9, 120000)
 # Výpis informací o Františkovi pomocí metody __str__
 print(frantisek)
 
-# Vytvoření instance zaměstnance Jitky, také opraveno
+# Vytvoření instance zaměstnance Jitky
 jitka = Employee("Jitka", "administrátorka", 25, 150000)
 # Výpis informací o Jitce
 print(jitka)
