@@ -26,7 +26,7 @@
 <img src="../img/clone-repository.png" width="400">
 
 2. Klikni na *Clone from GitHub*:
-<img src="./img/clone-from-github.png" width="600">
+<img src="../img/clone-from-github.png" width="600">
 
 3. V prohlížeči potvrď autorizaci a případně zadej své GitHub přihlašovací údaje:
 <img src="../img/authorize-vs-code.png" width="600">
