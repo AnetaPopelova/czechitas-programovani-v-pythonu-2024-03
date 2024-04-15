@@ -11,7 +11,7 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programován�
 | 4 | 25. 3. 2024 | GitHub | [git a GitHub](https://kodim.cz/czechitas/daweb/zaklady-gitu/uvod-do-gitu/system-git) |  |
 | *-* | *1. 4. 2024* | *Velikonoce - lekce se nekoná* | 🐣 |  |
 | 5 | 8. 4. 2024 | OOP - Objekty a třídy | [třídy a objekty](https://kodim.cz/czechitas/python-oop/lekce/tridy/tridy) |  |
-| 6 | 15. 4. 2024 | OOP - Dědičnost | [dědičnost](https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dedicnost) |  |
+| 6 | 15. 4. 2024 | OOP - Dědičnost | [dědičnost](https://kodim.cz/czechitas/python-oop/lekce/dedicnost/dedicnost) | [úkol 1](ukoly/01-rozvazka-pizzy.md) |
 | 7 | 22. 4. 2024 | Opakování<br>Coding Style  | 🎁 <br>[coding style](https://kodim.cz/czechitas/uvod-do-progr-2/bonusy/coding-style/coding-style) |  |
 | 8 | 29. 4. 2024 | Datum a čas<br>Instalace balíčků pomocí `pip`<br>AI nástroje ve vývoji | [datum a čas](https://kodim.cz/analyza-dat/python-data-1/bonusy/datum/datum)<br>[instalace balíčků](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/balicky-z-internetu/lesson)  |  |
 | 9 | 6. 5. 2024 | Čtení a zápis textových souborů | [čtení a zápis](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/soubory/cteni-souboru) |  |
@@ -22,7 +22,7 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programován�
 
 ## Podmínky pro obdržení certifikátu
 - Splnění kvízu z každé lekce na min. 70 %, kvíz musí být odevzdaný **před začátkem další lekce** (u posledního kvízu do 7 dnů). Kvíz slouží k zopakování si učiva z minulé lekce, doporučujeme si jej tedy udělat jako osvěžení si již probrané látky před následující hodinou.
-- Odevzdání dvou domácích úkolů, budou zadané po 7. a 10. lekci, úkol musí být odevzdaný do 2 týdnů.
+- Odevzdání dvou domácích úkolů, budou zadané po 6. a 10. lekci, úkol musí být odevzdaný do 2 týdnů.
 - Účast na min. 10 z 12 lekcí.
 
 **Odkaz na kvízy: https://open.openclass.ai/invite?code=qMwZU8vWLX0AAQ**
