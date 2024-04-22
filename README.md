@@ -15,9 +15,9 @@ Tento repozitář obsahuje všechny materiály a zdroje pro kurz **Programován�
 | 7 | 22. 4. 2024 | Opakování<br>Coding Style  | 🎁 <br>[coding style](https://kodim.cz/czechitas/uvod-do-progr-2/bonusy/coding-style/coding-style) |  |
 | 8 | 29. 4. 2024 | Datum a čas<br>Instalace balíčků pomocí `pip`<br>AI nástroje ve vývoji | [datum a čas](https://kodim.cz/analyza-dat/python-data-1/bonusy/datum/datum)<br>[instalace balíčků](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/balicky-z-internetu/lesson)  |  |
 | 9 | 6. 5. 2024 | Čtení a zápis textových souborů | [čtení a zápis](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/soubory/cteni-souboru) |  |
-| 10 | 13. 5. 2024 | JSON<br>API | [JSON](https://kodim.cz/programovani/uvod-do-progr-2/uvod-do-programovani-2/json/format-json)<br>[API](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/json-api) |  |
-| 11 | 20. 5. 2024 | Obsluha výjimek | [výjimky](https://kodim.cz/programovani/uvod-do-progr-2/bonusy/vyjimky/chyby-v-programu) |  |
-| 12 | 27. 5. 2024 | Regulární výrazy | [regex](https://kodim.cz/analyza-dat/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy) |  |
+| 10 | 13. 5. 2024 | JSON<br>API | [JSON](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/format-json)<br>[API](https://kodim.cz/czechitas/uvod-do-progr-2/uvod-do-programovani-2/json/json-api) |  |
+| 11 | 20. 5. 2024 | Obsluha výjimek | [výjimky](https://kodim.cz/czechitas/uvod-do-progr-2/bonusy/vyjimky/chyby-v-programu) |  |
+| 12 | 27. 5. 2024 | Regulární výrazy | [regex](https://kodim.cz/czechitas/python-data-1/ziskavani-dat/regularni-vyrazy/regularni-vyrazy) |  |
 
 
 ## Podmínky pro obdržení certifikátu
