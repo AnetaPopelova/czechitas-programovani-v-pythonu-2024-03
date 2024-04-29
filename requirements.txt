@@ -1,0 +1,38 @@
+# Jak použít requirements.txt
+# Uložte soubor requirements.txt do kořenového adresáře vašeho projektu. Toto je standardní umístění, kde se obvykle nachází tento soubor.
+# Otevřete terminál nebo příkazovou řádku. Ujistěte se, že jste ve správném adresáři (tam, kde je uložen soubor requirements.txt).
+# Spusťte instalaci knihoven pomocí pip. 
+
+# Použijte následující příkaz:
+
+# Pro Windows:
+# pip install -r requirements.txt
+
+# Pro MacOS/Linux:
+# pip3 install -r requirements.txt
+
+# Tento příkaz nainstaluje všechny knihovny uvedené v requirements.txt do vašeho Python prostředí.
+# Počkejte, až se instalace dokončí. Tento proces může chvíli trvat v závislosti na počtu a velikosti knihoven, které instalujete.
+
+# Ověření instalace. 
+
+# Po dokončení instalace můžete ověřit, zda byly všechny knihovny správně nainstalovány. 
+# To lze udělat importem knihoven v Python terminálu nebo skriptu, jak bylo zmíněno v předchozím návodu.
+# Použití requirements.txt je efektivní způsob, jak zajistit, že každý, kdo pracuje na projektu, má přesně stejné verze knihoven, což pomáhá předcházet problémům spojeným s nekompatibilitou verzí.
+
+
+numpy==1.25.0
+requests==2.28.1
+forex-python==1.8
+pytz==2023.1
+python-dateutil==2.8.2
+arrow==1.2.2
+
+# Pojďme se podívat, co každý z těchto balíčků dělá:
+
+# numpy (1.25.0): Základní balíček pro vědecké výpočty v Pythonu, poskytující podporu pro velké, vícedimenzionální pole a matice, spolu s velkou knihovnou matematických funkcí.
+# requests (2.28.1): Jednoduchá knihovna pro odesílání HTTP požadavků, umožňuje interakci s webem.
+# forex-python (1.8): Knihovna pro získávání kurzů měn a převod měn, která také podporuje získávání informací o kryptoměnách.
+# pytz (2023.1): Tento balíček umožňuje správnou manipulaci s časovými zónami v Pythonu.
+# python-dateutil (2.8.2): Poskytuje rozšířené funkce pro manipulaci a analýzu dat a času.
+# arrow (1.2.2): Modernější knihovna poskytující funkce pro práci s daty, časem a časovými zónami, navržená pro snadné použití a pochopení.
