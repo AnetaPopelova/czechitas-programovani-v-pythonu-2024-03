@@ -29,9 +29,8 @@ arrow==1.2.2
 
 # Pojďme se podívat, co každý z těchto balíčků dělá:
 
-# numpy (1.25.0): Základní balíček pro vědecké výpočty v Pythonu, poskytující podporu pro velké, vícedimenzionální pole a matice, spolu s velkou knihovnou matematických funkcí.
 # requests (2.28.1): Jednoduchá knihovna pro odesílání HTTP požadavků, umožňuje interakci s webem.
 # forex-python (1.8): Knihovna pro získávání kurzů měn a převod měn, která také podporuje získávání informací o kryptoměnách.
-# pytz (2023.1): Tento balíček umožňuje správnou manipulaci s časovými zónami v Pythonu.
+# pytz (2024.1): Tento balíček umožňuje správnou manipulaci s časovými zónami v Pythonu.
 # python-dateutil (2.8.2): Poskytuje rozšířené funkce pro manipulaci a analýzu dat a času.
 # arrow (1.2.2): Modernější knihovna poskytující funkce pro práci s daty, časem a časovými zónami, navržená pro snadné použití a pochopení.
