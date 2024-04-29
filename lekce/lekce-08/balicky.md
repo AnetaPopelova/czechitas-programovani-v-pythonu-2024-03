@@ -22,8 +22,11 @@ Tento příkaz stáhne balíček `requests` z *PyPI* a nainstaluje ho do vašeho
 
 ## Důležité aspekty balíčků
 * Virtuální prostředí: K izolaci závislostí a verzí balíčků pro různé projekty se doporučuje používat virtuální prostředí. To umožňuje mít různé verze stejného balíčku pro různé projekty bez konfliktů.
-* Aktualizace a odinstalace: Balíčky lze snadno aktualizovat pomocí příkazu pip install --upgrade a odinstalovat pomocí pip uninstall.
+* Aktualizace a odinstalace: Balíčky lze snadno aktualizovat pomocí příkazu `pip install --upgrade` a odinstalovat pomocí pip uninstall.
+
 Balíčky tedy v Pythonu poskytují způsob, jak organizovat, sdílet a znovu používat kód mezi projekty a mezi vývojáři, což vede k efektivnějšímu a udržitelnějšímu vývoji softwaru.
+
+Všechny nainstalované balíčky můžeme vypsat pomocí příkazu `pip list`.
 
 ---
 

@@ -5,8 +5,9 @@ start_Solar_Orbiter = datetime(2020, 2, 10, 5, 3)
 
 # Který den v týdnu Solar Orbiter odstartoval?
 den_v_tydnu = start_Solar_Orbiter.weekday()
-den_v_tydnu = start_Solar_Orbiter.strftime("%A")
+print(f"Solar Orbiter odstartoval v {den_v_tydnu}")
 
+den_v_tydnu = start_Solar_Orbiter.strftime("%A")
 print(f"Solar Orbiter odstartoval v {den_v_tydnu}")
 
 # Spočítej, kolik času od jeho startu uplynulo.
