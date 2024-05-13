@@ -1,24 +1,23 @@
 import requests
 
-
-def get_name_day(day, month):
-    # Zformátování datumu
-    date = f"{day:02d}{month:02d}"
-
-    # Příprava parametrů pro GET požadavek
-    params = {"date": date}
-
-    # API endpoint
-    url = "https://svatky.adresa.info/json"
-
-    # Odeslání požadavku
-    response = requests.get(url, params=params)
-
-    data = response.json()
-    name = data[0]["name"]
-    print(f"Svátek má: {name}")
+# Zformátování datumu
+day = 29
+month = 2
+date = f"{day:02d}{month:02d}"
 
 
-# Spuštění funkce pro konkrétní datum
-# Například pro zjištění, kdo má svátek 29. února
-get_name_day(29, 2)
+# Příprava parametrů pro GET požadavek
+params = {"date": date}
+
+# API endpoint
+url = "https://svatky.adresa.info/json"
+
+# Odeslání požadavku
+response = requests.get(url, params=params)
+
+# Zpracování odpovědi a extrakce jména
+data = response.json()
+name = data[0]["name"]
+
+# Výpis jména osoby, která má na tento den svátek
+print(f"Svátek má: {name}")

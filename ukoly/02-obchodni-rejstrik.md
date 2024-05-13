@@ -1,6 +1,6 @@
 # Zadání úkolu 2
 
-Tvým úkolem je vytvořit program, který bude získávat data z obchodního rejstříku s využitím jeho REST API.
+Tvým úkolem je vytvořit program, který bude získávat data z obchodního rejstříku s využitím jeho API.
 
 ## Část 1
 

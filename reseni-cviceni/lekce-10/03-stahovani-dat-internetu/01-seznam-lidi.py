@@ -1,5 +1,4 @@
 import requests
-import json
 
 # URL API
 url = "https://api.kodim.cz/python-data/people"
@@ -12,12 +11,16 @@ data = response.json()  # převedení JSON dat na Python slovníky
 total_people = len(data)
 print("Celkový počet lidí:", total_people)
 
-# Zjistit, jaké všechny informace máme o jednotlivých osobách
-if total_people > 0:
-    print("Informace dostupné o osobách:", list(data[0].keys()))
 
-# Zjistit počet mužů a žen
-male_count = sum(1 for person in data if person["gender"] == "Male")
-female_count = sum(1 for person in data if person["gender"] == "Female")
-print("Počet mužů:", male_count)
-print("Počet žen:", female_count)
+print("Informace dostupné o osobách:", list(data[0].keys()))
+
+count_male = 0
+count_female = 0
+for i in data:
+    if i["gender"] == "Male":
+        count_male += 1
+    elif i["gender"] == "Female":
+        count_female += 1
+
+print("Počet mužů:", count_male)
+print("Počet žen:", count_female)
