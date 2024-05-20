@@ -3,7 +3,7 @@ from datetime import datetime
 
 def read_balance():
     try:
-        with open("balance.txt", "r") as file:
+        with open("reseni-cviceni/lekce-11/02-pokrocile-osetreni-chyb/balance.txt", "r") as file:
             return float(file.read().strip())
     except Exception as e:
         print(f"Chyba při čtení souboru: {e}")
@@ -12,7 +12,7 @@ def read_balance():
 
 def write_balance(new_balance):
     try:
-        with open("balance.txt", "w") as file:
+        with open("reseni-cviceni/lekce-11/02-pokrocile-osetreni-chyb/balance.txt", "w") as file:
             file.write(f"{new_balance}\n")
     except Exception as e:
         print(f"Chyba při zápisu do souboru: {e}")
